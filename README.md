@@ -1,4 +1,3 @@
-# bwo-2023
-new and improved personal website!
+#Body Without Organs
 
 Just a cute little personal website.
